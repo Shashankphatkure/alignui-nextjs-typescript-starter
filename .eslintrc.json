@@ -1,4 +1,3 @@
 {
-  "extends": [],
-  "rules": {}
+  "extends": ["next/typescript"]
 }
