@@ -15,7 +15,7 @@ import {
   RiTimeLine,
   RiMapPinLine,
   RiUserLine,
-  RiBoxLine,
+  RiBox1Line,
   RiTruckLine,
   RiPrinterLine,
   RiDownloadLine,
